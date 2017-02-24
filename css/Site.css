@@ -1,2 +1,36 @@
 ﻿body {
+    font-family: 'Limelight', cursive;
+}
+
+/*Header styling*/
+#headshot{
+    max-width: 300px;
+     display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 15px;
+}
+
+#headshot img{
+    border-radius: 150px;
+}
+
+.text-bg{
+    max-width: 60%;
+    background-color: rgba(45,58,64,0.9);
+    color: rgba(36,155,189,1);
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 15px;
+    padding-bottom: 10px;
+    border-radius: 10px;
+}
+
+/* Custom Button Styles */
+
+.btn-dark {
+    border-radius: 4px;
+    background-color: rgba(45,58,64,0.9);
+    color: rgba(36,155,189,1);
 }
