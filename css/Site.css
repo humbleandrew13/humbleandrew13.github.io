@@ -22,7 +22,7 @@
 
 /*Background for header text*/
 .text-bg {
-    max-width: 60%;
+    max-width: 80%;
     background-color: rgba(45,58,64,0.9);
     color: rgb(36,155,189);
     display: block;
@@ -144,6 +144,7 @@ footer .text-muted {
 
     .portfolio-item{
         border: 1px solid black;
+        border-radius: 8px;
     }
 
 /* The Modal (background) */
